@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<item>
+		<date>Montag</date>
+		<title>Eiscreme</title>
+		<content>Gut</content>
+	</item>
+	<item>
+		<date>Dienstag</date>
+		<title>Muffins</title>
+		<content>Lecker</content>
+	</item>
+	<item>
+		<date>Mittwoch</date>
+		<title>Kuchen</title>
+		<content>Super</content>
+	</item>
+	<item>
+		<date>Donnerstag</date>
+		<title>Hackbällchen</title>
+		<content>Perfekt</content>
+	</item>
+	<item>
+		<date>Freitag</date>
+		<title>Gemüse</title>
+		<content>OK</content>
+	</item>
+</xml>
